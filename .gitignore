@@ -1,0 +1,11 @@
+.env.php
+send-request.ps1
+.env.php
+requests.sqlite
+logs/
+*.log
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
