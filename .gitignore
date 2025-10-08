@@ -1,6 +1,4 @@
 .env.php
-send-request.ps1
-.env.php
 requests.sqlite
 logs/
 *.log
